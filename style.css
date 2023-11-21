@@ -1,0 +1,19 @@
+*{
+    text-decoration: none !important;
+    list-style: none;
+    outline: none;
+    box-sizing: border-box;
+}
+@media(min-width: 768px){
+    .news-input{
+        width: 50%;
+    }
+}
+/* @media(max-width:768px){
+    .boxes{
+        padding-top: 1.5rem !important;
+    }
+} */
+body{
+    position: relative;
+}
